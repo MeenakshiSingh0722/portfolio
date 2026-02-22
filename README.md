@@ -8,12 +8,6 @@ The website is fully responsive and designed with a modern UI to provide a clean
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Live Website: (Add your deployed link here)
-
----
-
 ## 🛠️ Tech Stack
 
 This project is built using:
